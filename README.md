@@ -8,14 +8,14 @@ Welcome to my repository of **weekly coding challenges** from [Sloth Bytes](http
 
 ```
 .
-├── week-01/
-│   ├── README.md        # Challenge description + approach
+├── problem-name/
+│   ├── README.md        # Challenge description
 │   ├── solution.js      # Solution code
-│   └── tests/           # Validation scripts
-├── week-02/
+│
+├── problem-name/
 │   ├── README.md
 │   ├── solution.js
-│   └── tests/
+│ 
 ...
 ```
 
